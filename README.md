@@ -1,4 +1,4 @@
-Absolutely. For your **Student Performance Analysis EDA project**, you can use the following content directly in your GitHub repository `README.md`.
+
 
 ## 📊 Student Performance Analysis — EDA Project
 
